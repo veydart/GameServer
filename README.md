@@ -3,7 +3,7 @@
 
 Документация Swagger http://localhost:5000/api/help
 
-# То что использовал:
+# То, что использовал:
 EF,
 Swagger,
 PostgreSQL
