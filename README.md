@@ -8,4 +8,4 @@ EF,
 Swagger,
 PostgreSQL
 
-# Найтроки бд находятся в appesttings.json -> GameServer.Worker, GameServer
+# Натроки бд находятся в appesttings.json -> GameServer.Worker, GameServer
